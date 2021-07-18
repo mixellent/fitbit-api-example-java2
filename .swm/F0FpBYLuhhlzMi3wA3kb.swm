@@ -1,0 +1,48 @@
+{
+    "id": "F0FpBYLuhhlzMi3wA3kb",
+    "name": "TestDoc1",
+    "content": [
+        {
+            "type": "text",
+            "text": "[[sym-text:artifactId(eb7714d6-918d-4857-8474-47525a1ba546)]] [[sym-text:groupId(adba7c88-ef4e-40ec-affb-b4f531834fec)]]\n\nTest\n\n[[sym:./pom.xml(ab805525-d95f-4813-9d6f-e0c4e6768b6a)]]"
+        }
+    ],
+    "symbols": {
+        "eb7714d6-918d-4857-8474-47525a1ba546": {
+            "symbol": "eb7714d6-918d-4857-8474-47525a1ba546",
+            "path": "pom.xml",
+            "text": "artifactId",
+            "lineNumber": 16,
+            "lineData": "\t\t<artifactId>spring-boot-starter-parent</artifactId>",
+            "wordIndex": {
+                "start": 2,
+                "end": 2
+            },
+            "fileBlob": "",
+            "type": "generic_text"
+        },
+        "adba7c88-ef4e-40ec-affb-b4f531834fec": {
+            "symbol": "adba7c88-ef4e-40ec-affb-b4f531834fec",
+            "path": "pom.xml",
+            "text": "groupId",
+            "lineNumber": 15,
+            "lineData": "\t\t<groupId>org.springframework.boot</groupId>",
+            "wordIndex": {
+                "start": 10,
+                "end": 10
+            },
+            "fileBlob": "",
+            "type": "generic_text"
+        },
+        "ab805525-d95f-4813-9d6f-e0c4e6768b6a": {
+            "type": "path",
+            "text": "pom.xml",
+            "path": "pom.xml"
+        }
+    },
+    "file_version": "2.0.2",
+    "meta": {
+        "app_version": "0.5.0-0",
+        "file_blobs": {}
+    }
+}
