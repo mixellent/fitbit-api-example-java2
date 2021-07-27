@@ -4,24 +4,10 @@
     "content": [
         {
             "type": "text",
-            "text": "[[sym-text:artifactId(eb7714d6-918d-4857-8474-47525a1ba546)]]\n\nTest"
+            "text": "Test"
         }
     ],
-    "symbols": {
-        "eb7714d6-918d-4857-8474-47525a1ba546": {
-            "symbol": "eb7714d6-918d-4857-8474-47525a1ba546",
-            "path": "pom.xml",
-            "text": "artifactId",
-            "lineNumber": 16,
-            "lineData": "\t\t<artifactId>spring-boot-starter-parent</artifactId>",
-            "wordIndex": {
-                "start": 2,
-                "end": 2
-            },
-            "fileBlob": "",
-            "type": "generic_text"
-        }
-    },
+    "symbols": {},
     "file_version": "2.0.3",
     "meta": {
         "app_version": "0.5.2-0",
