@@ -4,7 +4,7 @@
     "content": [
         {
             "type": "text",
-            "text": "[[sym-text:artifactId(eb7714d6-918d-4857-8474-47525a1ba546)]] [[sym-text:groupId(adba7c88-ef4e-40ec-affb-b4f531834fec)]]\n\nTest"
+            "text": "[[sym-text:artifactId(eb7714d6-918d-4857-8474-47525a1ba546)]]\n\nTest"
         }
     ],
     "symbols": {
@@ -17,19 +17,6 @@
             "wordIndex": {
                 "start": 2,
                 "end": 2
-            },
-            "fileBlob": "",
-            "type": "generic_text"
-        },
-        "adba7c88-ef4e-40ec-affb-b4f531834fec": {
-            "symbol": "adba7c88-ef4e-40ec-affb-b4f531834fec",
-            "path": "pom.xml",
-            "text": "groupId",
-            "lineNumber": 15,
-            "lineData": "\t\t<groupId>org.springframework.boot</groupId>",
-            "wordIndex": {
-                "start": 10,
-                "end": 10
             },
             "fileBlob": "",
             "type": "generic_text"
